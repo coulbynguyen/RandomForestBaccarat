@@ -1,0 +1,4 @@
+#!/bin/bash
+
+python3 genetic.py
+python3 snap.py
